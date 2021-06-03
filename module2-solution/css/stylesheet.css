@@ -34,6 +34,7 @@ h2.sushi { color: black;
     font-family: 'Architects Daughter', cursive;
     background-color: #E5D198;
     border: 3px solid black;
+    width:300px;
 }
 
 div { color: black;
