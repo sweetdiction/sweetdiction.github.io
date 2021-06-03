@@ -18,6 +18,8 @@ h2.chicken { color: black;
     font-family: 'Architects Daughter', cursive;
     background-color: #D59898;
     border: 3px solid black;
+    width: 150px;
+    margin-right: 1px;
 }
 
 h2.beef { color: black;
@@ -26,6 +28,8 @@ h2.beef { color: black;
     font-family: 'Architects Daughter', cursive;
     background-color: #C14543;
     border: 3px solid black;
+    width: 150px;
+    margin-right: 1px;
 }
 
 h2.sushi { color: black;
@@ -34,7 +38,8 @@ h2.sushi { color: black;
     font-family: 'Architects Daughter', cursive;
     background-color: #E5D198;
     border: 3px solid black;
-    width:150px;
+    width: 150px;
+    margin-right: 1px;
 }
 
 div { color: black;
