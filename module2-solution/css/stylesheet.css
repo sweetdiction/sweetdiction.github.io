@@ -52,20 +52,24 @@ h2.sushi { color: black;
 
 
 /*CLASSES*/
+
 .block1 {
 	background-color: #999999;
 	border: 3px solid black;
 	width: 500px;
-}
-
-.left {
 	align-items: left;
 }
 
-.center {
+.block2 {
+	background-color: #999999;
+	border: 3px solid black;
+	width: 500px;	
 	align-items: center;
 }
 
-.right {
+.block3 {
+	background-color: #999999;
+	border: 3px solid black;
+	width: 500px;	
 	align-items: right;
 }
