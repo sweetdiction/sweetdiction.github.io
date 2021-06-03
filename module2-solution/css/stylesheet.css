@@ -8,6 +8,7 @@ body {
     font-family: 'Architects Daughter', cursive;
 }
 
+
 p { color: red;
     text-align: left;
 }
@@ -18,7 +19,7 @@ h1 { color: black;
     font-family: 'Architects Daughter', cursive;
 }
 
-h2.chicken { color: black;
+div > h2.chicken { color: black;
     text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
@@ -26,9 +27,10 @@ h2.chicken { color: black;
     border: 3px solid black;
     width: 150px;
     margin-right: 1px;
+    align-items: left;
 }
 
-h2.beef { color: black;
+div > h2.beef { color: black;
     text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
@@ -36,9 +38,10 @@ h2.beef { color: black;
     border: 3px solid black;
     width: 150px;
     margin-right: 1px;
+    align-items: center;
 }
 
-h2.sushi { color: black;
+div > h2.sushi { color: black;
     text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
@@ -46,11 +49,9 @@ h2.sushi { color: black;
     border: 3px solid black;
     width: 150px;
     margin-right: 1px;
+    align-items: right;
 }
 
-div { color: black;
-	align-items: center;
-}
 
 /*CLASSES*/
 .block1 {
