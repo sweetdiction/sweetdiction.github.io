@@ -48,6 +48,8 @@ h1 { color: black;
     background-color: #E5D198;
     border: 3px solid black;
     width: 150px;
+    padding: 0;
+    margin: 0;
 }
 
 /*IDS*/
