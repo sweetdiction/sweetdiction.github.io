@@ -3,9 +3,9 @@ Theme Name: I love Coursera
 Template: 2021
 */
 body {
-	color: black;
-    text-align: center;
-    font-family: 'Architects Daughter', cursive;
+	margin: 0;
+	padding: 0;
+	background-color: white;
 }
 
 
@@ -47,24 +47,23 @@ h2.sushi { color: black;
     width: 150px;
 }
 
+/*IDS*/
 
-/*CLASSES*/
-
-.block1 {
+#block1 {
 	background-color: #999999;
 	border: 3px solid black;
 	width: 500px;
 	align-items: left;
 }
 
-.block2 {
+#block2 {
 	background-color: #999999;
 	border: 3px solid black;
 	width: 500px;	
 	align-items: center;
 }
 
-.block3 {
+#block3 {
 	background-color: #999999;
 	border: 3px solid black;
 	width: 500px;	
