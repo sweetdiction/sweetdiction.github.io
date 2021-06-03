@@ -26,7 +26,6 @@ h2.chicken { color: black;
     background-color: #D59898;
     border: 3px solid black;
     width: 150px;
-    margin-right: 1px;
 
 }
 
@@ -37,7 +36,6 @@ h2.beef { color: black;
     background-color: #C14543;
     border: 3px solid black;
     width: 150px;
-    margin-right: 1px;
 }
 
 h2.sushi { color: black;
@@ -47,7 +45,6 @@ h2.sushi { color: black;
     background-color: #E5D198;
     border: 3px solid black;
     width: 150px;
-    margin-right: 1px;
 }
 
 
