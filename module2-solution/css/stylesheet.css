@@ -53,7 +53,9 @@ div { color: black;
 }
 
 /*CLASSES*/
-.bgcolor {
+.block1 {
 	background-color: #999999;
 	border: 3px solid black;
+	width: 500px;
 }
+
