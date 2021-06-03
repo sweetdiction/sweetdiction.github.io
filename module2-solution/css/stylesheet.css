@@ -2,14 +2,38 @@
 Theme Name: I love Coursera 
 Template: 2021
 */
-p { color: red;
+p { color: black;
     text-align: center;
 }
 
 h1 { color: black;
     text-align: center;
-    font-size: 35px;
+    font-size: 40px;
     font-family: 'Architects Daughter', cursive;
+}
+
+h2.chicken { color: black;
+    text-align: right;
+    font-size: 24px;
+    font-family: 'Architects Daughter', cursive;
+    background-color: #D59898;
+    border: 3px solid black;
+}
+
+h2.beef { color: black;
+    text-align: right;
+    font-size: 24px;
+    font-family: 'Architects Daughter', cursive;
+    background-color: #C14543;
+    border: 3px solid black;
+}
+
+h2.sushi { color: black;
+    text-align: right;
+    font-size: 24px;
+    font-family: 'Architects Daughter', cursive;
+    background-color: #E5D198;
+    border: 3px solid black;
 }
 
 div { color: black;
@@ -17,6 +41,7 @@ div { color: black;
 }
 
 /*CLASSES*/
-.highlight {
-	background-color: grey;
+.bgcolor {
+	background-color: #999999;
+	border: 3px solid black;
 }
