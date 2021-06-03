@@ -19,7 +19,7 @@ h1 { color: black;
 }
 
 h2.chicken { color: black;
-    text-align: right;
+    text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
     background-color: #D59898;
@@ -29,7 +29,7 @@ h2.chicken { color: black;
 }
 
 h2.beef { color: black;
-    text-align: right;
+    text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
     background-color: #C14543;
@@ -39,7 +39,7 @@ h2.beef { color: black;
 }
 
 h2.sushi { color: black;
-    text-align: right;
+    text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
     background-color: #E5D198;
