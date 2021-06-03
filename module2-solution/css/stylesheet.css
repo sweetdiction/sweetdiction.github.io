@@ -52,23 +52,7 @@ h1 { color: black;
 
 /*IDS*/
 
-#block1 {
-    background-color: #999999;
-    padding: 10px 10px 10px 10px;
-    margin: 40px;
-    border: 3px solid black;
-    width: 500px;
-}
-
-#block2 {
-    background-color: #999999;
-    padding: 10px 10px 10px 10px;
-    margin: 40px;
-    border: 3px solid black;
-    width: 500px;   
-}
-
-#block3 {
+#box {
     background-color: #999999;
     padding: 10px 10px 10px 10px;
     margin: 40px;
