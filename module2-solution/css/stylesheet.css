@@ -7,9 +7,9 @@ Template: 2021
 }
 
 body {
-	margin: 0;
-	padding: 0;
-	background-color: white;
+    margin: 0;
+    padding: 0;
+    background-color: white;
 }
 
 p { color: red;
@@ -53,25 +53,26 @@ h1 { color: black;
 /*IDS*/
 
 #block1 {
-	background-color: #999999;
-	padding: 10px 10px 10px 10px;
-	margin: 40px;
-	border: 3px solid black;
-	width: 500px;
+    background-color: #999999;
+    padding: 10px 10px 10px 10px;
+    margin: 40px;
+    border: 3px solid black;
+    width: 500px;
 }
 
 #block2 {
-	background-color: #999999;
-	padding: 10px 10px 10px 10px;
-	margin: 40px;
-	border: 3px solid black;
-	width: 500px;	
+    background-color: #999999;
+    padding: 10px 10px 10px 10px;
+    margin: 40px;
+    border: 3px solid black;
+    width: 500px;   
 }
 
 #block3 {
-	background-color: #999999;
-	padding: 10px 10px 10px 10px;
-	margin: 40px;
-	border: 3px solid black;
-	width: 500px;
+    background-color: #999999;
+    padding: 10px 10px 10px 10px;
+    margin: 40px;
+    border: 3px solid black;
+    width: 500px;
+    overflow: auto;
 }
