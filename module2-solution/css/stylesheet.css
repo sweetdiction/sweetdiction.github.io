@@ -3,6 +3,9 @@ Theme Name: I love Coursera
 Template: 2021
 */
 
+* { box-sizing: border-box;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -55,8 +58,6 @@ h1 { color: black;
 	margin: 40px;
 	border: 3px solid black;
 	width: 500px;
-	align-items: left;
-	box-sizing: border-box;
 }
 
 #block2 {
@@ -65,8 +66,6 @@ h1 { color: black;
 	margin: 40px;
 	border: 3px solid black;
 	width: 500px;	
-	align-items: center;
-	box-sizing: border-box;
 }
 
 #block3 {
@@ -75,6 +74,4 @@ h1 { color: black;
 	margin: 40px;
 	border: 3px solid black;
 	width: 500px;
-	align-items: right;
-	box-sizing: border-box;
 }
