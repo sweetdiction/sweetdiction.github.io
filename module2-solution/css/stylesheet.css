@@ -19,7 +19,7 @@ h1 { color: black;
     font-family: 'Architects Daughter', cursive;
 }
 
-div > h2.chicken { color: black;
+h2.chicken { color: black;
     text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
@@ -27,10 +27,10 @@ div > h2.chicken { color: black;
     border: 3px solid black;
     width: 150px;
     margin-right: 1px;
-    align-items: left;
+
 }
 
-div > h2.beef { color: black;
+h2.beef { color: black;
     text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
@@ -38,10 +38,9 @@ div > h2.beef { color: black;
     border: 3px solid black;
     width: 150px;
     margin-right: 1px;
-    align-items: center;
 }
 
-div > h2.sushi { color: black;
+h2.sushi { color: black;
     text-align: center;
     font-size: 24px;
     font-family: 'Architects Daughter', cursive;
@@ -49,7 +48,6 @@ div > h2.sushi { color: black;
     border: 3px solid black;
     width: 150px;
     margin-right: 1px;
-    align-items: right;
 }
 
 
@@ -60,3 +58,14 @@ div > h2.sushi { color: black;
 	width: 500px;
 }
 
+.left {
+	align-items: left;
+}
+
+.center {
+	align-items: center;
+}
+
+.right {
+	align-items: right;
+}
