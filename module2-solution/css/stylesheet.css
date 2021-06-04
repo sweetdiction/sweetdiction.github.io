@@ -17,7 +17,7 @@ section {
     margin: 10px;
  }
 
- section>h2 {
+h2 {
     /* font-size: 1.2em; */
     font-family: 'Sriracha', cursive;
     float: right;
@@ -27,15 +27,15 @@ section {
     margin: 0;
  }
 
- section.chicken>h2 {
+h2.chicken {
     background-color: #D59898;
  }
 
- section.beef>h2 { background-color: #C14543;
-    font-color: white;
+h2.beef { 
+    background-color: #C14543;
  }
 
- section.sushi>h2 {
+h2.sushi {
     background-color: #E5D198;
  }
 
