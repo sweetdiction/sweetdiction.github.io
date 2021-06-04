@@ -9,7 +9,7 @@ h1 { padding: 20px;
 
 section { 
     background-color: #9C9999;
-    border: 3px solid black;
+    border: 1px solid black;
     margin: 10px;
  }
 
@@ -42,14 +42,21 @@ section {
     text-align: center;
 }
 
-
-/*DESKTOP*/
-@media (min-width: 992px){
-    .col-lg-1{
+.left {
         float: left;
         width: 33.33%;
     }
-}
+
+.right {
+        float: left;
+        width: 33.33%;
+    }
+
+.middle {
+        float: left;
+        width: 33.33%;
+    }
+
 /*TABLET*/
 
 @media (min-width: 768px) and (max-width:991px){
