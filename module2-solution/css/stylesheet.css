@@ -21,14 +21,14 @@ section {
  }
 
  section.chicken>h2 {
-    background-color: pink;
+    background-color: #D59898;
  }
 
- section.beef>h2 { background-color: red;
+ section.beef>h2 { background-color: #C14543;
  }
 
  section.sushi>h2 {
-    background-color: yellow;
+    background-color: #E5D198;
  }
 
  section>p{
