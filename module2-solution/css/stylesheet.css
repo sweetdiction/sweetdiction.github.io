@@ -22,43 +22,6 @@ h1 { color: black;
     font-family: 'Architects Daughter', cursive;
 }
 
-.chicken { color: black;
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Architects Daughter', cursive;
-    background-color: #D59898;
-    border: 3px solid black;
-    width: 150px;
-
-}
-
-.beef { color: black;
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Architects Daughter', cursive;
-    background-color: #C14543;
-    border: 3px solid black;
-    width: 150px;
-}
-
-.sushi { color: black;
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Architects Daughter', cursive;
-    background-color: #E5D198;
-    border: 3px solid black;
-    width: 150px;
-    margin-top: 388px;
-    margin-left:-160px;
-}
-
-/*IDS*/
-
-#box {
+div {
     background-color: #999999;
-    padding: 10px 10px 10px 10px;
-    margin: 40px;
-    border: 3px solid black;
-    width: 500px;
-    overflow: auto;
 }
