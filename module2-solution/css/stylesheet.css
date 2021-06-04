@@ -21,8 +21,12 @@ h1 { color: black;
     font-family: 'Architects Daughter', cursive;
 }
 
-div { background-color: #999999;
-    padding: 10px 10px 10px 10px;
-    border: 3px solid black;
-    width: 500px;
+/*CLASS*/
+
+.sushi { background-color: #999999;
+        font-family: 'Architects Daughter', cursive;
+        text-align: center;
+        padding: 5px 5px 5px 5px;
+        border: 3px solid black;
+        width: 500px;
 }
