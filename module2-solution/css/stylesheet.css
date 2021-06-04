@@ -11,13 +11,12 @@ Template: 2021
 body { background-color: white;
 }
 
-div { background-color: #999999;  
+div { background-color: #999999; 
+    width: 500px;
+    margin: auto;
+    padding: 10px; 
 }
 
-.container { width: 500px;
-      margin: auto;
-      padding: 10px;
-  }
 
 p { color: black;
     text-align: center;
