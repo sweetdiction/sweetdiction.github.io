@@ -4,6 +4,7 @@
 
 h1 { padding: 20px;
     font-family: 'Sriracha', cursive;
+    font-size: 1.75em;
 }
 
 section { 
@@ -13,6 +14,7 @@ section {
  }
 
  section>h2 {
+    font-size: 1.2em;
     float: right;
     border: 1px solid black;
     width: 150px;
