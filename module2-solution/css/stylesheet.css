@@ -41,18 +41,15 @@ section {
 
 .left {
     float: left;
-    width: 20%;
-    margin: 20px
+    width: 33%;
 }
 
 .middle {
-    float: center;
-    width: 20%;
-    margin: 20px
+    float: left;
+    width: 33%;
 }
 
 .right {
-    float: right;
-     width: 20%;
-     margin: 20px;
+    float: left;
+    width: 33%;
 }
