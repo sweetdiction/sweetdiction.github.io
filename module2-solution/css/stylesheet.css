@@ -25,6 +25,8 @@ p { width: 50px;
     float: right;
 }
 
+section { clear: right; }
+
 h1 { color: black;
     text-align: center;
     font-size: 40px;
