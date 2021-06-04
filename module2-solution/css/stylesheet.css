@@ -1,15 +1,28 @@
 *{
     box-sizing: border-box;
-    font-family: sans-serif;
 }
 
-h1 { text-align: center
-    padding: 20px;
-
+h1 { padding: 20px;
+    font-family: 'Sriracha', cursive;
 }
 
 section { 
     background-color: #9C9999;
     border: 3px solid black;
     margin: 10px;
+ }
+
+ section.chicken>h2 {
+    background-color: pink;
+ }
+
+ section.beef>h2 { background-color: red;
+ }
+
+ section.sushi>h2 {
+    background-color: yellow;
+ }
+
+ section>p{
+    padding: 10px 10px 10px 10px
  }
