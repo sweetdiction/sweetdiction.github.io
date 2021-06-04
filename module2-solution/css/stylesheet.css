@@ -7,6 +7,10 @@ h1 { padding: 20px;
    /* font-size: 1.75em; */
  }
 
+ p{
+    padding: 30px 10px 10px 10px
+ }
+
 section { 
     background-color: #9C9999;
     border: 1px solid black;
@@ -35,9 +39,6 @@ section {
     background-color: #E5D198;
  }
 
- section>p{
-    padding: 30px 10px 10px 10px
- }
 
 .center {
     text-align: center;
@@ -49,7 +50,7 @@ section {
 @media (min-width: 992px) {
     .col-sm-1{
         float: left;
-        width: 100%;
+        width: 33.33%;
     }
 }
 
