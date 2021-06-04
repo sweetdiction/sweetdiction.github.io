@@ -4,8 +4,8 @@
 
 h1 { padding: 20px;
     font-family: 'Sriracha', cursive;
-/*    font-size: 1.75em;
-*/}
+   /* font-size: 1.75em; */
+ }
 
 section { 
     background-color: #9C9999;
@@ -14,7 +14,7 @@ section {
  }
 
  section>h2 {
-  /*  font-size: 1.2em; */
+    /* font-size: 1.2em; */
     font-family: 'Sriracha', cursive;
     float: right;
     border: 1px solid black;
@@ -35,7 +35,7 @@ section {
  }
 
  section>p{
-    padding: 20px 10px 10px 10px
+    padding: 30px 10px 10px 10px
  }
 
 .center {
