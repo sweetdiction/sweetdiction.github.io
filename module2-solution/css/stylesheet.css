@@ -1,58 +1,74 @@
-/*
-Theme Name: I love Coursera 
-Template: 2021
-*/
-
-* { box-sizing: border-box;
-    font-family: 'Architects Daughter', cursive;
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
 }
 
-body { background-color: white;
-}
-
-
-h1 { color: black;
+.center{
     text-align: center;
-    font-size: 40px;
+    padding: 1%;
+}
+
+section{
+    border: 1px solid black;
+    background-color: rgb(156, 153, 153);
     margin: 10px;
 }
 
-.center { text-align:center;
-          padding: 1%;
- }
 
-section {
-    border: 1px solid black
-    background-color: grey
-    margin: 10px;
-}
-
-section>h2 { color: black;
-    text-align: center;
-    font-size: 24px;
-    text-align: center; 
+section>h2{
     float: right;
     margin: 0;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
     width: 33%;
+    font-weight: bold;
 }
 
-section.chicken>h2 { 
-    background-color: pink; 
+section.chicken>h2{
+    background-color: pink;
 }
 
-section.beef>h2 { 
-    background-color: red; }
-
-section.sushi>h2 { 
-    background-color: yellow; 
+section.beef>h2{
+    background-color: red;
 }
 
-section>p {
+section.sushi>h2{
+    background-color: yellow;
+}
+
+section>p{
     padding: 30px 10px 10px 15px;
 }
 
-.row {
+.row{
     width: 100%;
 }
 
+@media (min-width: 992px){
+    .col-lg-4{
+        float: left;
+        width: 33.33%;
+    }
+}
 
+/* Tablet View */
+@media (min-width: 768px) and (max-width:991px){
+    .col-md-6{
+        float: left;
+        width: 50%;
+    }
+
+    .col-md-12{
+        float:left;
+        width: 100%;
+    }
+
+@media (max-width: 767px){
+    .col-sm-12{
+        float: left;
+        width: 100%;
+    }
+}
+}
