@@ -39,17 +39,32 @@ section {
     text-align: center;
 }
 
-.left {
-    float: left;
-    width: 33%;
-}
 
-.middle {
-    float: left;
-    width: 33%;
+/*DESKTOP*/
+@media (min-width: 992px){
+    .col-lg-1{
+        float: left;
+        width: 33.33%;
+    }
 }
+/*TABLET*/
 
-.right {
-    float: left;
-    width: 33%;
+@media (min-width: 768px) and (max-width:991px){
+    .col-md-1{
+        float: left;
+        width: 50%;
+    }
+
+    .col-md-2{
+        float:left;
+        width: 100%;
+    }
+
+/*MOBILE*/
+
+@media (max-width: 767px){
+    .col-sm-1{
+        float: left;
+        width: 100%;
+    }
 }
