@@ -33,6 +33,7 @@ h2.chicken {
 
 h2.beef { 
     background-color: #C14543;
+    color: white;
  }
 
 h2.sushi {
@@ -48,7 +49,7 @@ h2.sushi {
 /*DESKTOP*/
 
 @media (min-width: 992px) {
-    .col-sm-1{
+    .col-lg-1{
         float: left;
         width: 33.33%;
     }
