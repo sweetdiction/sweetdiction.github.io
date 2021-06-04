@@ -11,8 +11,13 @@ body { margin: 0;
     background-color: white;
 }
 
-p { color: red;
+p { width: 500px;
+    height: 500px;
+    color: black;
     text-align: left;
+}
+
+#p1 { background-color: #E5D198;
 }
 
 h1 { color: black;
@@ -21,12 +26,13 @@ h1 { color: black;
     font-family: 'Architects Daughter', cursive;
 }
 
-/*CLASS*/
-
-.sushi { background-color: #999999;
-        font-family: 'Architects Daughter', cursive;
-        text-align: center;
-        padding: 5px 5px 5px 5px;
-        border: 3px solid black;
-        width: 500px;
+h2 { color: black;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Architects Daughter', cursive;
+    text-align: center; 
 }
+
+div { background-color: #999999;  
+}
+
