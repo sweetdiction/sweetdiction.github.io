@@ -28,6 +28,7 @@ section {
  }
 
  section.beef>h2 { background-color: #C14543;
+    font-color: white;
  }
 
  section.sushi>h2 {
