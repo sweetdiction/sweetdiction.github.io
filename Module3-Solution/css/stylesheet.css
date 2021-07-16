@@ -11,3 +11,10 @@ font-family: 'Oxygen', sans-serif;
 	border-radius: 0;
 	border: 0;
 }
+
+#logo-img {
+	background: url(https://sweet-diction.net/wordpress/wp-content/uploads/2021/07/Nj15.jpg);
+	width: 150px
+	height: 150px
+	margin: 10px 15px 10px 0;
+}
